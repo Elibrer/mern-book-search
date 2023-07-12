@@ -38,5 +38,3 @@ export const GET_USERS = gql`
     }
   }
 `;
-
-mongodb+srv://elibrer:Dacx3100@zweck-book-search.tpfqzon.mongodb.net/?retryWrites=true&w=majority
